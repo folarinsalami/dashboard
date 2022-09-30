@@ -23,7 +23,7 @@
 
     --card-padding: 1.8rem;
     --padding-1: 1.2rem;
-  --box-shadow: 0 2rem 3rem var(--color-light);
+    --box-shadow: 0 2rem 3rem var(--color-light);
 }
 .dark-themes-variables{
     --color-backgrund:#181a1e;
@@ -517,7 +517,7 @@ background: var(--color-success);
         z-index: 3;
         box-shadow: 1rem 3ren 4rem var(--color-light);
         height: 100vh;
-        padding-right:var(--caard-padding);
+        padding-right:var(--card-padding);
         margin-left: 1rem;
         display: none;
         animation: showMenu 400ms ease forwards;
