@@ -503,7 +503,7 @@ background: var(--color-success);
     }
 
 }
-/* -----------MEDIA QUERY FOR MOBILE AND TABLETS---------- */
+/* -----------MEDIA QUERY FOR MOBILE AND MINI TABLETS---------- */
 @media screen and (max-width: 768px){
     .container{
         width: 100%;
@@ -528,7 +528,7 @@ background: var(--color-success);
         }
     }
     aside .logo{
-        margin-left: 1rem;
+        margin-left: 0rem;
     }
     aside .logo h2{
         display: inline;
