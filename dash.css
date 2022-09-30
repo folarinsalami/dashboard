@@ -597,4 +597,7 @@ background: var(--color-success);
 .right .top button span{
     font-size: 2rem;
 }
+    .right .top .profile .profile-photo img{
+        left: 75%;
+    }
 } 
