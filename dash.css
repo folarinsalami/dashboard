@@ -528,7 +528,7 @@ background: var(--color-success);
         }
     }
     aside .logo{
-        margin-left: 0rem;
+        margin-left: 1rem;
     }
     aside .logo h2{
         display: inline;
